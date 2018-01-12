@@ -1,0 +1,242 @@
+<! Doctype html>
+<html>
+<head>
+<title>Government COllege Pankshin</title>
+<link rel="stylesheet" href="css/main.css">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width initial-scale=1">
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+<script src="jquery.min.js"></script>
+ <script src="js/bootstrap.min.js"></script>
+ 
+ 
+<nav class="navbar navbar-expand-lg light bg-light">
+  <a class="navbar-brand" href="GCP.html">GCP</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="GCP.html">Home <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="about us.html">About us</a>
+      </li>
+	   <li class="nav-item">
+        <a class="nav-link" href="ICT.html">ICT</a>
+      </li>
+	   <li class="nav-item">
+        <a class="nav-link" href="#">our Staffs</a>
+		</li>
+		 <li class="nav-item">
+        <a class="nav-link" href="#">Gallary</a>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="schedules.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          schedules
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="Action.html">Action</a>
+          <a class="dropdown-item" href="Another action.html">Another action</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="me.html">me</a>
+        </div>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link enabled" href="#">enabled</a>
+      </li>
+    </ul>
+    <form action="welcome.php" method="post"form class="form-inline my-2 my-lg-0">
+      <input class="form-control mr-sm-3" input type="text" name="name" placeholder="Search" aria-label="Search">
+      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+    </form>
+	<br>
+
+	
+	
+  </div>
+</nav>
+
+</head>
+<body style="background-color:#f8f8ff">
+	
+   <h1 style="text-align:center">Welcome To Government college<br>Pankshin</h1>
+   <br>
+   <p>How can you tell when you have paid the full price of
+success? It’s simple: Look around you. There it is! You
+can always tell how much of the price of success you have
+paid by looking at your current lifestyle and your bank
+account. By the Law of Correspondence, your outer world
+will, like a mirror, always reflect the person you are and
+the price you have paid on the inside.
+There is an interesting point about the price of success:
+It must always be paid in full—and in advance. Success,
+however you define it, is not like a restaurant where you
+pay after you have enjoyed your meal. Instead it is like a
+cafeteria, where you can choose whatever you want, but
+you must pay for it before you eat it.
+Motivational speaker Zig Ziglar says, “The elevator to
+success is out of order, but the stairs are always open.”
+   </p>
+   
+<<div id="myslider" class="carousel slide" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#myslider" data-slide-to="0" class="active"></li>
+    <li data-target="#myslider" data-slide-to="1"></li>
+    <li data-target="#myslider" data-slide-to="2"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="ok2.jpg" alt="First slide">
+	  <div class="carousel-caption">
+	 <h2 style="color:#ff8b04"> Topnorch ICT Facilities.</h2>
+	  </div>
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="ok2.jpg" alt="Second slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="try2.png" alt="Third slide">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#myslider" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#myslider" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
+
+<h2 style="text-align:center">ICT center for student</h2>
+<p>we have a standard ICT center where students learn about the digital age. The ICT Unit of the college is generally charged with the responsibilities of deploying ICT infrastructure and services for administration, teaching, research and learning to the college at large.
+The Information & Communication Technology Unit (ICTU) goals are to:
+Enable the college to invest in and use IT strategically;
+Direct IT resources to highest and best purposes in support of college mission; and to
+Elevate the level of IT service excellence.<br>
+<a href="ICT.html">read more</a>
+</p>
+<img src="student.jpg"; "img-align:center";"weight:450";"height:236"; style="width:40%">
+
+<script type="text/javascript">
+function smile(){
+alert("THANKS OBI VIVIAN CHIGOZIE FOR THE MANY YEARS OF TRUE AND UNDILUTED FRIENDSHIP");
+}
+smile();
+</script
+<br>
+<script type="text/javascript">
+function hello(){
+alert("YOU are SIMPLY AMAZING.God bless you");
+}
+
+</script
+
+ <h2>
+<form>
+<input type="button" value="click moi" onmouseover="hello();">
+</form>
+<hr>
+
+<h2 style="text-align:center"> OUR STAFFS</h2>
+<p>In our society, the top 20 percent of people earn 80 percent
+of the money and enjoy 80 percent of the riches and
+rewards. This “Pareto Principle” has been proven over
+and over again since it was first formulated in 1895 by
+Vilfredo Pareto. Your first goal in your career should be
+to get into the top 20 percent in your chosen field.
+In the twenty-first century, there is a premium on
+knowledge and skill. The more knowledge you acquire
+and the greater skill that you apply, the more competent
+and valuable you become. As you get better at what you
+do, your income-earning ability increases—like compound
+interest.
+NO EXCUSES 23 
+Unfortunately, the majority of people—the bottom 80
+percent—make little or no effort to upgrade their skills.
+Most people, according to Geoffrey Colvin’s 2009 book
+Talent Is Overrated, learn their jobs in the first year of
+their employment, and then they never get any better. It
+is only the top people in every field who are committed
+to continuous improvement.
+Because of this increasing disparity of productive ability,
+based on knowledge, skill, and hard work, the top 1
+percent of people in American today control as much as
+33 percent of the financial assets.
+</p>
+    <style>
+div.gallery {
+    margin: 5px;
+    border: 5px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.gallery:hover {
+    border: 1px groove #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 6px;
+    text-align: center;
+}
+</style>
+
+<div class="gallery">
+  <a target="_blank" href="maybe1.jpg">
+    <img src="maybe1.jpg" alt="we are smarter by books" width="600" height="400">
+  </a>
+  <div class="desc">we are the first in our world</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="images2">
+    <img src="images2.jpg" alt="Forest" width="283" height="178">
+  </a>
+  <div class="desc">Dont raise your voice, improve the argument</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="image5.jpg">
+    <img src="image5.jpg" alt="Northern Lights" width="225" height="225">
+  </a>
+  <div class="desc">GCP_ a place where excellece reign</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="images.jpg">
+    <img src="images4.jpg" alt="Mountains" width="600" height="400">
+  </a>
+  <div class="desc">we Lead others  follow.</div>
+</div>
+    </div>
+    </div>
+    
+    </script>
+    <hr>
+    </style>
+<h1>we are one</h1>
+<p>try us today and get real value for your money</p>
+<hr>
+    
+    
+    
+    
+    
+    
+
+
+
+
+</body>
+</html>
